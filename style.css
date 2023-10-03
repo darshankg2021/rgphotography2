@@ -1,0 +1,64 @@
+.header{
+    border: solid #a900ff;    
+    display: flex;
+    justify-content: space-between;
+    background-color: #f700ff;
+
+    font-style: oblique;
+    font-size: 0.6cm;
+    border-width: 1.5ch;
+}
+
+body{
+    background-color:  #00ddff;
+}
+
+.menu{
+    justify-items: center;
+    border: #0000ff;
+}
+
+.work{
+    display: flex;
+    justify-content: space-between;
+    background-color: #00ffaa;
+    border: solid #0000ff;
+    border-width: 2ch;
+}
+
+.workItem1{
+    border: solid #ec5becd2;
+    border-width: 1ch;
+    background-color: #f1a3f1;
+}
+
+.workItem2{  
+    font-style: italic;
+    border: solid #ec5becd2;
+    border-width: 1ch;
+    background-color: #f1a3f1;
+}
+
+.bookingheader{
+    border: solid #aaffa1;
+}
+
+.title{
+    border: solid #ffff00;
+    border-width: 2ch;
+    background-color: #00ffa9;
+}
+
+.infoMenu{
+    border: solid #0000ff;
+    border-width: 1ch;
+}
+
+.infoMenu{
+    background-color: #bb00ff
+}
+
+.image{
+    justify-content: center;
+    background-color: #d0ff00;
+}
